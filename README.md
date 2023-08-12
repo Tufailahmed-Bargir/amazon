@@ -12,7 +12,7 @@ Usage
 Clone this repository to your local machine using:
 
 bash-Copy code:
-"git clone https://github.com/your-username/amazon-clone.git"
+"git clone https://github.com/Tufailahmed-Bargir/amazon-clone.git"
 Navigate to the project directory:
 
 bash-Copy code
