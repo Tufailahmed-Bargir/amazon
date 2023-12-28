@@ -11,11 +11,11 @@ CSS Styling: Utilizes CSS to enhance the design, typography, and visual aestheti
 Usage
 Clone this repository to your local machine using:
 
-bash-Copy code:
+Copy this code:
 "git clone https://github.com/Tufailahmed-Bargir/amazon-clone.git"
 Navigate to the project directory:
 
-bash-Copy code
+then go to 
 cd amazon-clone
 Open the index.html file in your preferred web browser to view the Amazon Clone Landing Page.
 
